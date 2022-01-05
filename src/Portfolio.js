@@ -12,7 +12,7 @@ export function Portfolio(){
     
     constructor(){
       let prices = [];
-      for(let i=0; i<365; i++){
+      for(let i=0; i<367; i++){
         prices.push(getRandomArbitrary(800,900));
       }
 
