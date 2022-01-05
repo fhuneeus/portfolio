@@ -1,3 +1,7 @@
+# Notes about the app
+
+For simplicity I assumed the portfolio would have 10 stocks, and that their daily prices would be values between 800 and 900.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
